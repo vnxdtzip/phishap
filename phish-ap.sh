@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
 
+#--------------------------------
+# NO PASSWORD IS DISPLAYED!!!!   
+# FOR EDUCATIONAL PURPOSES ONLY!
+#--------------------------------
+
 CLEAN="\033[0m"
 RED='\033[01;31m'
 YELLOW='\033[01;33m'
