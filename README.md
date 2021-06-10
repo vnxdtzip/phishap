@@ -1,5 +1,4 @@
 
-[![asciicast](https://asciinema.org/a/RL0YetCcoZJeJxFIgMWe6ilXZ.svg)](https://asciinema.org/a/RL0YetCcoZJeJxFIgMWe6ilXZ)
 
 <h1 align="center"> Phish-AP </h1>
 
@@ -9,3 +8,4 @@ Este script foi criado para fins educacionais e não nos responsabilizamos por a
 
 No script, ninguém poderá ver os dados e senhas capturadas nas páginas de login falsas, pois o intuito é apenas uma demonstração de ataque real.
 
+TREINAMENTO EM WI-FI HACKING: https://xpsecsecurity.com/home/course/invas%C3%A3o-em-redes-wi-fi-xpwp/33
