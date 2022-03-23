@@ -110,7 +110,7 @@ banner() {
 	echo -e "${BOLD} | | _ | ||   |        |       ||   | ${CLEAN}"
 	echo -e "${BOLD} | || || ||   |  ____  |    ___||   | ${CLEAN}${YELLOW}PhishAP - Fake-AP Creator${CLEAN}"
 	echo -e "${BOLD} |       ||   | |____| |   |___ |   | ${CLEAN}${YELLOW}Version 1.0${CLEAN}"
-	echo -e "${BOLD} |       ||   |        |    ___||   | ${CLEAN}${YELLOW}xpsecsecurity.com${CLEAN}"
+	echo -e "${BOLD} |       ||   |        |    ___||   | ${CLEAN}${YELLOW}vinix${CLEAN}"
 	echo -e "${BOLD} |   _   ||   |        |   |    |   | ${CLEAN}"
 	echo -e "${BOLD} |__| |__||___|        |___|    |___| ${CLEAN}"
 	printf "\n\n"
