@@ -7,5 +7,3 @@ Phish-AP é um script educacional que tem a capacidade de criar um ponto de aces
 Este script foi criado para fins educacionais e não nos responsabilizamos por atos maliciosos feitos pelos usuários.
 
 No script, ninguém poderá ver os dados e senhas capturadas nas páginas de login falsas, pois o intuito é apenas uma demonstração de ataque real.
-
-TREINAMENTO EM WI-FI HACKING: https://xpsecsecurity.com/home/course/invas%C3%A3o-em-redes-wi-fi-xpwp/33
