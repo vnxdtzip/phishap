@@ -2,7 +2,7 @@
 
 <h1 align="center"> Phish-AP </h1>
 
-Phish-AP é um script educacional que tem a capacidade de criar um ponto de acesso com uma network interna e com diversas páginas de login falsa.
+Phish-AP é um script educacional que tem a capacidade de criar um ponto de acesso com uma network interna com diversas páginas de login falsa.
 
 Este script foi criado para fins educacionais e não nos responsabilizamos por atos maliciosos feitos pelos usuários.
 
